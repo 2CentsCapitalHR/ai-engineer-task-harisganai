@@ -1,0 +1,18 @@
+
+{
+  "job_id": "samplejob-0001",
+  "process": "Company Incorporation",
+  "documents_uploaded": ["sample_before.docx"],
+  "required_documents": ["Articles of Association","Memorandum of Association","Register of Members and Directors"],
+  "missing_documents": ["Register of Members and Directors"],
+  "issues_found": [
+    {
+      "document": "sample_before.docx",
+      "section": "Top of document",
+      "issue": "Jurisdiction not ADGM",
+      "severity": "High",
+      "suggestion": "Change jurisdiction clause to ADGM Courts; cite ADGM Companies Regulations."
+    }
+  ],
+  "metadata": {"model":"local-mini","indexed_chunks":0}
+}

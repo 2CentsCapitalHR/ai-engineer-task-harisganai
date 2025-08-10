@@ -1,0 +1,24 @@
+{
+  "job_id": "2ef84488",
+  "process": "Company Incorporation",
+  "documents_uploaded": [
+    "adgm-ra-resolution-multiple-incorporate-shareholders-LTD-incorporation-v2.docx"
+  ],
+  "detected_types": [
+    "Articles of Association"
+  ],
+  "required_documents": [
+    "Memorandum of Association",
+    "Articles of Association",
+    "Register of Members and Directors",
+    "UBO Declaration"
+  ],
+  "missing_documents": [
+    "Memorandum of Association",
+    "Register of Members and Directors",
+    "UBO Declaration"
+  ],
+  "issues_found": [],
+  "citations": [],
+  "timestamp": "2025-08-09T08:57:21.802971Z"
+}

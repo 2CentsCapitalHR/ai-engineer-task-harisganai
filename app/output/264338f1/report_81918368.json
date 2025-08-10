@@ -1,0 +1,32 @@
+{
+  "job_id": "81918368",
+  "process": "Company Incorporation",
+  "documents_uploaded": [
+    "Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+  ],
+  "detected_types": [
+    "Articles of Association"
+  ],
+  "required_documents": [
+    "Memorandum of Association",
+    "Articles of Association",
+    "Register of Members and Directors",
+    "UBO Declaration"
+  ],
+  "missing_documents": [
+    "Memorandum of Association",
+    "Register of Members and Directors",
+    "UBO Declaration"
+  ],
+  "issues_found": [
+    {
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx",
+      "section": "Signature block",
+      "issue": "No signature block detected",
+      "severity": "Medium",
+      "suggestion": "Add signature, printed name, title and date fields."
+    }
+  ],
+  "citations": [],
+  "timestamp": "2025-08-09T08:56:06.180298Z"
+}
